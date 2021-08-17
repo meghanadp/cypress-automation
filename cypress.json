@@ -1,0 +1,10 @@
+{
+  "env": {
+    "url": "http://geekyants-login.geekydev.com/home",
+    "email": "tester@geekyants.com",
+    "password": "Goldtree@99",
+    "code": "7226 6642",
+    "cookieName": "PortalSession",
+    "chromeWebSecurity": false
+  }
+}
